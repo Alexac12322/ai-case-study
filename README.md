@@ -8,7 +8,7 @@
 * CEO stated,
    >"And as I looked more deeply into that, I said, you know, the next company I really want to be able to use all this amazing data that's getting generated."
 * [CEO interview](https://youtu.be/_b5UOqCFIDw?si=-JWpflIjT9BmMu9r)
-   >They are an AI company whos goals are to elivate cost, pace, and timeline of oncology drug discovery and development.(pitchbook profile) 
+   
 * Being a publicly traded bioteach company suggest they went through typical funding stages such as seed rounds, venture capital investments, and an IPO to raise capital from public markets. As of March 31, 2024, Lantern Pharma reported having $38.4 million in cash, and other marketable securities. This provides an indication of clear success in securing funding to support their AI-driven drug research efforts thus far. Latern Pharma Inc. does choose to keep specific funding information private such as specific funding rounds, amounts raised, and investors. 
 *  [Financial information](https://ir.lanternpharma.com/financial-information)
 ## Buisness Activities
