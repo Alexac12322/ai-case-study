@@ -57,13 +57,6 @@
 * After conducting my resreach my suggestion to this company would be to expand their products and services beyond just their therapeutical pipline. Expanding from only therapeutical pipline could potentially provide value to pharmaceutical partners, accelerate oncology R&D, and ultimately improve outcome for cancer patients.
 * Additionally, by combining their AI/ML, genomic data, and implementing high-throughput screening expertise, Lantern could potentially reduce development timelines and costs. Implementing High-throughput screening would leverage their core strengths to accelerate the identification of new oncology indications for existing drugs. 
 
-  
-
-
-
-
-
-
 
 
 
@@ -73,9 +66,9 @@
 * [Insitro website](https://www.insitro.com/)
 * [BenevolentaAI website](https://www.benevolent.com/)
 * [NextImmune website](https://neximmune.com/)
-* [https://pitchbook.com/profiles/company/97010-83#faqs]
-* [https://www.biopharmatrend.com/post/743-interview-with-panna-sharma/]
-* [https://www.lanternpharma.com/]
+* https://pitchbook.com/profiles/company/97010-83#faqs
+* https://www.biopharmatrend.com/post/743-interview-with-panna-sharma/
+* https://www.lanternpharma.com/
 * https://youtu.be/_b5UOqCFIDw?si=-JWpflIjT9BmMu9r
 * https://ir.lanternpharma.com/financial-information
 * https://ir.lanternpharma.com/news-events/press-releases/detail/142/lantern-pharma-reports-third-quarter-2023-financial-results
